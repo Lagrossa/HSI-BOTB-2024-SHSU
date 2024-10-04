@@ -9,7 +9,7 @@ The app allows users to donate clothes in exchange for a discount by taking a pi
 When the user takes a picture of the material tag, the information will be automatically filled by text recognition and run on a supervised machine learning model to determine the material made based on the tag. Based on the information provided, the app creates a barcode for drop-off and imports data received to the database for further analysis to decrease textile waste in the region and globally.
 
 ### Frameworks
-The frameworks and technologies utilized in this project were Flutter, the Dart programming language, various Flutter packages, and Visual Studio Code.
+The frameworks and technologies utilized in this project were Flutter, the Dart programming language, various Flutter packages, Python for machine learning, and Visual Studio Code.
 
 # How to Run The Application
 The application can be built by downloading the necessary software (Flutter, Android Studio or XCode (for Mac)
